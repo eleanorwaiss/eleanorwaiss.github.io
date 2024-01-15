@@ -11,22 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Actuarial Science, Butler University, 2025 (expected)
+	* Minor in Computer Science
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Actuarial Intern, OneAmerica Financial Partners
+  * Hybrid, Indianapolis, IN
+  * Duties included: rate setting for indexed products, database creation for annual financial plan. decrement model sensitivity analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
