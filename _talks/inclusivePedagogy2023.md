@@ -3,7 +3,7 @@ title: 'Developing Intentional Practices and Cultivating an Inclusive Environmen
 collection: talks
 type: "Talk"
 permalink: /talks/inclusive-pedagogy
-venue: "Inclusive Pedagogy"
+venue: "Inclusive Pedagogy Workshop"
 date: 2023-03-24
 location: "Butler University, IN USA"
 ---

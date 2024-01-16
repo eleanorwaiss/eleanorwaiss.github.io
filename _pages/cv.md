@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Version](\files\cv_2024.pdf)
+
 Education
 ======
 * B.S. in Mathematics and Actuarial Science, Butler University, 2025 (expected)
@@ -16,9 +18,13 @@ Education
 
 Work experience
 ======
+* Present: Departmental and Athletics Tutor
+  * In-person, Indianapolis, IN
+  * Supported drop-in lab hours, course-wide exam review, and private tutor requests.
+
 * Summer 2023: Actuarial Intern, OneAmerica Financial Partners
   * Hybrid, Indianapolis, IN
-  * Duties included: rate setting for indexed products, database creation for annual financial plan. decrement model sensitivity analysis
+  * Duties included: rate setting for indexed products, database creation for annual financial plan, decrement model sensitivity analysis.
 
 Skills
 ======
@@ -47,6 +53,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Affiliations
 ======
-* Currently signed in to 43 different slack teams
+* Spectra: The Association for LGBTQ+ Mathematicians
+* Society of Actuaries
+* Mathematical Association of America
+* Kappa Mu Epsilon
