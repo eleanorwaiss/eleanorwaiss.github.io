@@ -15,6 +15,11 @@ Education
 ======
 * B.S. in Mathematics and Actuarial Science, Butler University, 2025 (expected)
 	* Minor in Computer Science
+	
+Awards and Fellowships
+======
+* National Finalist, Barry Goldwater Fellowship 2024
+	* [Research essay on fractal geometry](/files/goldwater-ewaiss.pdf).
 
 Work experience
 ======
