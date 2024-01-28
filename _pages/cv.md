@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version](\files\cv_2024.pdf)
+[PDF Version](\files\cv_2024.pdf) (as of 01 Jan 24).
 
 Education
 ======
@@ -31,16 +31,7 @@ Work experience
   * Hybrid, Indianapolis, IN
   * Duties included: rate setting for indexed products, database creation for annual financial plan, decrement model sensitivity analysis.
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Publications (coming soon)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -50,12 +41,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Professional Affiliations
