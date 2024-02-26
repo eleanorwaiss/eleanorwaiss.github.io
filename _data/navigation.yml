@@ -6,5 +6,8 @@ main:
   - title: "Talks"
     url: /talks/
     
+  - title: "Lecture Notes"
+    url: /notes/
+    
   - title: "CV"
     url: /cv/
