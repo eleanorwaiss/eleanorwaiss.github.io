@@ -10,3 +10,4 @@ Here are my notes taken from MA310 Linear Algebra, Spring 2024 at Butler Univers
 
 * [26 Feb 2024: Linear Functions](\files\linear\3_1_Linear_Functions.pdf)
 * [28 Feb 2024: Isomorphisms](\files\linear\3_2_Isomorphisms.pdf)
+* [01 May 2024: Isomorphisms and Rank-Nullity](\files\linear\3_3_Rank_Nullity.pdf)
