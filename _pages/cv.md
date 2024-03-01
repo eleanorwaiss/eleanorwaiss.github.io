@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version](\files\cv_2024.pdf) (as of 01 Jan 24).
+[PDF Version](\files\cv_2024_0301.pdf) (as of 01 Mar 24).
 
 Education
 ======
