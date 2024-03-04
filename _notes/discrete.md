@@ -1,5 +1,5 @@
 ---
-permalink: /notes/discrete2
+permalink: /notes/discrete2/
 title: "Foundations of Computing II"
 author_profile: true
 redirect_from: 
