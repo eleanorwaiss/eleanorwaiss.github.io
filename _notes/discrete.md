@@ -10,4 +10,4 @@ Here are my notes taken from CS252 Foundations of Computing II, Spring 2024 at B
 
 * [26 Feb 2024: Nonhomogeneous Recurrance Relations](\files\discrete\10_3_Nonhomogeneous_1.pdf) Day 1.
 * [28 Feb 2024: Exam 1 Debrief](\files\discrete\Exam_1_Debrief.pdf)
-* [4 Mar 2024: Nonhomogeneous Relations Day 2](10_3_Nonhomogeneous_2.pdf)
+* [4 Mar 2024: Nonhomogeneous Recurrance Relations](\files\discrete\10_3_Nonhomogeneous_2.pdf) Day 2.
