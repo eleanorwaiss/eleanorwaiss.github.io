@@ -12,3 +12,4 @@ Here are my notes taken from MA310 Linear Algebra, Spring 2024 at Butler Univers
 * [28 Feb 2024: 3.2 Isomorphisms](\files\linear\3_2_Isomorphisms.pdf)
 * [01 Mar 2024: 3.3 Isomorphisms and Rank-Nullity](\files\linear\3_3_Rank_Nullity.pdf)
 * [04 Mar 2024: 3.4 Matricies](\files\linear\3_4_Matricies.pdf)
+* [06 Mar 2024: 3.5 Matrix Representations](\files\linear\3_5_Matrix_Representations.pdf)
