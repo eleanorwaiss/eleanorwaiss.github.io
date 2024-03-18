@@ -10,7 +10,7 @@ redirect_from:
 
 I submitted the following essay to Butler's annual LAS essay contest. This year's prompt was *New Ways to See the World: The Value of a Liberal Arts Education*.
 
-##Mochas and Muffins: What Mathematicians Gain Through the Liberal Arts
+## Mochas and Muffins: What Mathematicians Gain Through the Liberal Arts
 
 Over the past several months, in sporadic moments, I found myself thinking about the nature of the arts in the modern world. Getting a degree in mathematics, the so-called “queen of sciences”, the arts have no bearing on the world I build using the principles of rigour and absolute truth. I’ll question why I came to Butler, or any liberal arts institution for that matter, instead of some public state school where a majority of my advanced high school credits would transfer, and I could spend more time in classes closely related to my work as a mathematician. Walking the halls of Jordan, I see many strangers. We’re all studying vastly different things. I wonder: why we have a joint college of liberal arts and science? I’m going on to grad school for math, so why would I need a course on the arts in ancient Greece, or the architecture of Indianapolis, instead of spending time studying topology or differential equations? My computer science and lab science peers similarly bemoan the Core, especially around advising and registration. Why couldn’t Butler have been like any other major institution and have a college devoted strictly to the sciences?
 
