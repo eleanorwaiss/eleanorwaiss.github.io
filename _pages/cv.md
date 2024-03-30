@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version](\files\cv_2024_0301.pdf) (PDF as of 01 Mar 24).
+[PDF Version](\files\cv_online.pdf) (PDF as of 30 Mar 24).
 
 Education
 ======
@@ -18,8 +18,6 @@ Education
 	
 Awards and Fellowships
 ======
-* National Finalist, Barry Goldwater Fellowship 2024
-	* [Research essay on fractal geometry](/files/goldwater-ewaiss.pdf).
 * Robert O. Whitesell Endowed Scholar in Mathematics
 
 Work experience
