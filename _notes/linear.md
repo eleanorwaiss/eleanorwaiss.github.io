@@ -18,3 +18,4 @@ Here are my notes taken from MA310 Linear Algebra, Spring 2024 at Butler Univers
 * [20 Mar 2024: Chapter 3 A truely awful example](\files\linear\3_6_A_Truely_Awful_Example.pdf)
 * [27 Mar 2024: 4.1 Gauss-Jordan Elimination](\files\linear\4_1_Gauss-Jordan_Elimination.pdf)
 * [01 Apr 2024: 4.2 Systems of Matricies](\files\linear\4_2_Systems_of_Matricies.pdf)
+* [03 Apr 2024: 4.3 More Matrix Stuff](\files\linear\4_3_More_Matrix_Stuff.pdf)
