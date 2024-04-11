@@ -19,5 +19,5 @@ Here are my notes taken from MA310 Linear Algebra, Spring 2024 at Butler Univers
 * [27 Mar 2024: 4.1 Gauss-Jordan Elimination](\files\linear\4_1_Gauss-Jordan_Elimination.pdf)
 * [01 Apr 2024: 4.2 Systems of Matricies](\files\linear\4_2_Systems_of_Matricies.pdf)
 * [03 Apr 2024: 4.3 More Matrix Stuff](\files\linear\4_3_More_Matrix_Stuff.pdf)
-* [05 Apr 2024: 4.4 Matrix Operations] (\files\linear\4_4_Matrix_Operations.pdf)
-* [10 Apr 2024: 4.4 The Invertible Matrix Theorem] (\files\linear\4_4_Invertible_Matricies.pdf)
+* [05 Apr 2024: 4.4 Matrix Operations](\files\linear\4_4_Matrix_Operations.pdf)
+* [10 Apr 2024: 4.4 The Invertible Matrix Theorem](\files\linear\4_4_Invertible_Matricies.pdf)
