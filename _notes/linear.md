@@ -22,3 +22,4 @@ Here are my notes taken from MA310 Linear Algebra, Spring 2024 at Butler Univers
 * [05 Apr 2024: 4.4 Matrix Operations](\files\linear\4_4_Matrix_Operations.pdf)
 * [10 Apr 2024: 4.4 The Invertible Matrix Theorem](\files\linear\4_4_Invertible_Matricies.pdf)
 * [12 Apr 2024: 4.5 Change of Basis Matricies](\files\linear\4_5_Change_of_Basis.pdf)
+* [15 Apr 2024: 4.6 Least Squares Revisited and 5.1 Eigenstuff](\files\linear\4_7_and_5_1_Least_Squares_Revisted_and_Eigenstuff.pdf)
