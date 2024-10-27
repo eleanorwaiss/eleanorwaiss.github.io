@@ -36,12 +36,12 @@ Work experience
 
 Publications
 ======
-***(in progress)***
-Limits of Julia Sets for Sums of Iterates of Polynomials
+***(submitted to journal)***
+Geometric Limits of Sums of Iterated and Fixed Polynomials
 *with A. Kapiamba and S. Kaschner*
 
 ***(in progress)***
-Sums of Powers of Consecutive Primes of Non-integer Type
+Optimal Frequency Algorithm for Sums of Consecutive Primes
 *with J. Sorenson*
 
   <ul>{% for post in site.publications %}
