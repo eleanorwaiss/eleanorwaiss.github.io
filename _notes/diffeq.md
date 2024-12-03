@@ -11,3 +11,4 @@ Here are my notes taken from MA334 Differential Equations, Fall 2024 at Butler U
 * [29 Aug 2024: Review "Exam"](\files\diffeq\precourse_review.pdf)
 * [14 Nov 2024: All Guided Notes](\files\diffeq\allnotes_laplace.pdf)
 * [Carts on Wheels Mathematica Notebook](\files\diffeq\carts_on_wheels.nb)
+* [Nontestable Material notes](\files\diffeq\nontestable_material_20241203.pdf)
