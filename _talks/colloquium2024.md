@@ -8,9 +8,7 @@ date: 2024-04-12
 location: "Butler University"
 paperurl: '/files/colloquiumButler.pdf'
 ---
-
-![Julia's Serpent](/images/juliaSerpent.png)
-
+<img src="../images/juliaSerpent.png" alt="Julia's serpent" width="400"/>
 
 Butler University Mathematics Colloquia Series
 

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version](\files\cv_online.pdf) (PDF as of 1 June 24).
+[PDF Version](\files\cv_online.pdf) (PDF as of 20 January 25).
 
 Education
 ======
@@ -36,9 +36,6 @@ Work experience
 
 Publications
 ======
-***(submitted to journal)***
-Geometric Limits of Sums of Iterated and Fixed Polynomials
-*with A. Kapiamba and S. Kaschner*
 
 ***(in progress)***
 Optimal Frequency Algorithm for Sums of Consecutive Primes
