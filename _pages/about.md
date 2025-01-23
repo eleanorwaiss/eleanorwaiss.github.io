@@ -12,8 +12,13 @@ Hello, and welcome to my website! My name is Eleanor Waiss, my pronouns are [she
 
 Stay a moment, look around, and let me know if you have any questions!
 
-Since I study [fractals](https://en.wikipedia.org/wiki/Fractal), I would be remiss if I didn't include some of the best I've run across. Below is what **should** be the filled Julia set for g_{13} for p(z)=z^2-0.123+0.745i and q(z)=z^2+0.12-0.3i. Unfortunately, I had implimented the profile to generate this image incorrectly, so there are a handful of errors throughout. Nonetheless, this image is pretty, so I'm including it anyway. Read about this notation and more fractals like it in my [JMM 2024 talk](/talks/jmm2024).
+Since I study [fractals](https://en.wikipedia.org/wiki/Fractal), I would be remiss if I didn't include some of the best I've run across. Read about these and more fractals like it in my [JMM 2024 talk](/talks/jmm2024). These fractals were generated using the [DynamicsExplorer](https://sourceforge.net/projects/detool/) program by Boyd.
 
-![K(g13)](/images/fun.png)
+<img src="../images/menagerie/badProfile.png" alt="Bad fractal" width="200"/>
+<img src="../images/menagerie/juliaSerpent.png" alt="Serpent-like fractal" width="200"/>
+<img src="../images/menagerie/siegel2.png" alt="A siegel fractal" width="200"/>
+<img src="../images/menagerie/checkerboard.png" alt="A checkerboard fractal" width="200"/>
+<img src="../images/menagerie/example1.png" alt="A pretty fractal" width="200"/>
+<img src="../images/menagerie/newq6.png" alt="A dancing fractal" width="200"/>
 
 [Who am I, outside of academia?](/about/extra)
