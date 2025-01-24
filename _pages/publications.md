@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Geometric Limits of Sums of Iterated and Fixed Polynomials](\files\KKW2024.pdf) (3.27 MB)<br>
+[Geometric Limits of Sums of Iterated and Fixed Polynomials](\pub\KKW2024) (3.27 MB)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Joint with A. Kapiamba and S. Kaschner, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*submitted to* Ergodic Theory and Dynamical Systems, *fall 2024*.
 
