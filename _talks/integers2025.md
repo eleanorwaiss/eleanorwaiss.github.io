@@ -9,7 +9,7 @@ location: "University of Georgia - Athens"
 paperurl: '/files/integers2025.pdf'
 ---
 
-Butler Undergraduate Research Conference
+Integers 2025, in celebration of the 80th birthdays of Mel Nathanson and Carl Pomerance.
 
 Abstract: Let $f(n)$ denote the number of representations a positive integer 
 $n$ has as a sum of consecutive primes. For example, $f(17)=2$ since $17$ is prime 
