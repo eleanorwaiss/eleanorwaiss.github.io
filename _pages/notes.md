@@ -12,3 +12,5 @@ Butler University:
 - [MA398 Actuarial Mathematics II (Spring 2024)](\files\MA398.pdf) (45.4 MB, notes start on page 8)
 - [MA427 Lebesgue Integration (Spring 2024)](\files\lebesgue.pdf) (11.2 MB)
 - MA428 Calculus on Manifolds (coming soon)
+
+Complimentary [worksheet](\files\fern-maths.pdf) to fern-maths [video](https://www.youtube.com/watch?v=I2sjchgXsmk) on rigging Newton's Method. (81 KB)
