@@ -4,6 +4,9 @@ title: "Lecture Notes"
 permalink: /notes/
 author_profile: true
 ---
+University of Colorado:
+- [MATH1300 Calculus I](\notes\calci)
+
 Butler University:
 - [MA107 Calculus II](\notes\calcii)
 - [MA330 Linear Algebra](\notes\linear)
