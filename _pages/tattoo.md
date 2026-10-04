@@ -1,8 +1,8 @@
 ---
 permalink: /tattoo/
-title: "Tattoo Inspo"
-excerpt: "My latest tattoo inspiration"
-author_profile: True
+title: "Tattoo Inspiration"
+excerpt: "The inspiration for my latest tattoo"
+author_profile: true
 redirect_from: 
   - /tattoo/
   - /tattoo.html

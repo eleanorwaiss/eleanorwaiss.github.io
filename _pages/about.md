@@ -39,7 +39,7 @@ include some of the best I've run across. Read about these and more fractals lik
 <img src="../images/menagerie/example1.png" alt="A pretty fractal" width="200"/>
 <img src="../images/menagerie/newq6.png" alt="A dancing fractal" width="200"/>
 
-> This chasm that has been as naught to me  
+> "This chasm that has been as naught to me  
 > To that fair-haired youth may a pitfall be;  
 > He, too, must cross in the twilight dim;  
 > Good friend, I am building this bridge for him!"  
