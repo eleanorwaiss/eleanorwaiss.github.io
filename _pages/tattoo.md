@@ -1,5 +1,5 @@
 ---
-permalink: /tattoo
+permalink: /tattoo/
 title: "Tattoo Inspo"
 excerpt: "My latest tattoo inspiration"
 author_profile: False
