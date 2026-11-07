@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 **Office Hours**
-- Fall 2026: (In office) Thursdays 9-10am, (MARC) Tuesdays 
+
+- Fall 2026: (In office) Thursdays 9-10am, (MARC) Tuesdays 2:30-3:30pm
 - Spring 2027: (In office) Wednesdays 3-4pm, (MARC) None
 
 **Lecture Notes**
+
 University of Colorado:
 - [MATH1300 Calculus I](\notes\calci)
 
