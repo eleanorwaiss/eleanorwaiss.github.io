@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
+permalink: /notes/
 author_profile: true
 redirect_from: 
-  - /notes/
-  - /notes.html
+  - /teaching/
+  - /teaching.html
 ---
 
 **Office Hours**
