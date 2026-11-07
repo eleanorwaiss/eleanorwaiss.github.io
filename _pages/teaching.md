@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Lecture Notes"
+title: "Teaching"
 permalink: /notes/
 author_profile: true
 ---
+
+**Office Hours**
+- Fall 2026: (In office) Thursdays 9-10am, (MARC) Tuesdays 
+- Spring 2027: (In office) Wednesdays 3-4pm, (MARC) None
+
+**Lecture Notes**
 University of Colorado:
 - [MATH1300 Calculus I](\notes\calci)
 
